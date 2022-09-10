@@ -4,4 +4,4 @@ for i in range(a):
         print('*','#')
     else:
         print('#','*')
-    #i don't have any idea
+#i don't have any idea
